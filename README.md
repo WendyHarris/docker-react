@@ -1,3 +1,7 @@
+Configured with Docker using Travis-CI for continuous deployment with AWS elasticbeanstalk 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
